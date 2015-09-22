@@ -1,1 +1,1 @@
-pac for myself
+file://e:/abc.pac
